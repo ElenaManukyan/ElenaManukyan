@@ -11,7 +11,7 @@ I'm an engineer-designer of electronic devices and frontend web-developer.
 * 🧠  I'm learning TypeScript and PHP.
 * 🤝  I'm open to collaborating on all projects :)
 ***
-### My education:
+### My education
 Bauman Moscow State Technical University, where I received a Bachelor's degree in the specialty 11.03.03 "Design and Technology of Electronic Means".
 ***
 ### My tech stack  
