@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### Technologies which I use:  
-JavaScript, HTML, CSS, Bootstrap, Sass/SCSS, Webpack, AJAX, MVC, DOM API, HTTP API, Vercel, React, Jest, npm, Eslint.  
+JavaScript, HTML, CSS, Bootstrap, Sass/SCSS, Webpack, AJAX, MVC, DOM API, HTTP API, Vercel, React, Jest, npm, Eslint.
+
 **My profile on Hexlet:** https://ru.hexlet.io/u/sierra-moiseevna  
 **My email:** utv.header@gmail.com
 
