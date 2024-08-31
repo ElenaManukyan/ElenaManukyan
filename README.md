@@ -5,6 +5,8 @@ JavaScript, HTML, CSS, Bootstrap, Sass/SCSS, Webpack, AJAX, MVC, DOM API, HTTP A
 ***
 **My profile on Hexlet:** https://ru.hexlet.io/u/sierra-moiseevna  
 **My email:** utv.header@gmail.com
+***
+**My education:** Bachelor's degree in the specialty 11.03.03 "Design and Technology of Electronic Devices".
 
 <!--
 **ElenaManukyan/ElenaManukyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
