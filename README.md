@@ -2,7 +2,7 @@
 *** 
 **My email:** utv.header@gmail.com
 ***
-**My education:** My education: Bauman Moscow State Technical University, where I received a Bachelor's degree in the specialty 11.03.03 "Design and Technology of Electronic Means".
+**My education:** Bauman Moscow State Technical University, where I received a Bachelor's degree in the specialty 11.03.03 "Design and Technology of Electronic Means".
 ***
 ### My tech stack  
 JavaScript, HTML, CSS, Bootstrap, Sass/SCSS, Webpack, AJAX, MVC, DOM API, HTTP API, Vercel, React, Jest, npm, Eslint.
