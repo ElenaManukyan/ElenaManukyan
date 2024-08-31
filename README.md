@@ -1,7 +1,15 @@
-## Hi there 👋
-I am currently seeking employment.
-*** 
-**My email:** utv.header@gmail.com
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elena Manukyan
+======================================================================================================================================
+
+Web Developer
+-------------
+
+I'm an engineer-designer of electronic devices and frontend web-developer.
+
+*   🌍  I'm based in Moscow
+*   ✉️  You can contact me at [utv.header@gmail.com](mailto:utv.header@gmail.com)
+*   🧠  I'm learning TypeScript and PHP.
+*   🤝  I'm open to collaborating on all projects :)
 ***
 **My education:** Bauman Moscow State Technical University, where I received a Bachelor's degree in the specialty 11.03.03 "Design and Technology of Electronic Means".
 ***
