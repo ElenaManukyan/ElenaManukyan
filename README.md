@@ -12,9 +12,9 @@ I'm an engineer-designer of electronic devices and frontend web-developer.
 * 🤝  I'm open to collaborating on all projects :)
 ***
 ### My education
-Moscow State Technical University (Bauman University).
-Bachelor’s Degree in "Design and Technology of Electronic Devices" (Specialty 11.03.03).
-Faculty: "Computer Science and Control Systems".
+Moscow State Technical University (Bauman University).  
+Bachelor’s Degree in "Design and Technology of Electronic Devices" (Specialty 11.03.03).  
+Faculty: "Computer Science and Control Systems".  
 ***
 ### My tech stack  
 JavaScript, HTML, CSS, Bootstrap, Sass/SCSS, Webpack, AJAX, MVC, DOM API, HTTP API, Vercel, React, Jest, npm, Eslint, TDD.
