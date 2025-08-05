@@ -30,7 +30,7 @@ Faculty: *Computer Science and Control Systems*
 
 ### 🚀 Recent Projects  
 - [Navigator_facilitation]([https://github.com/...](https://github.com/ElenaManukyan/Navigator_facilitation) - A maritime app with backend, frontend, and database—expanding soon with sailor-focused features.  
-- [???????](?????) - ?????????????????????????? 
+- [Select_Stamp](https://github.com/ElenaManukyan/Select_Stamp) - Lightweight SPA for viewing, editing, and managing technical drawings in your browser. 
 <!--
 **ElenaManukyan/ElenaManukyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
