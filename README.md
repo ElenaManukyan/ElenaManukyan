@@ -3,7 +3,7 @@
 
 🌍 **Based in** Moscow, Russia  
 📧 **Contact**: [utv.header@gmail.com](mailto:utv.header@gmail.com)  
-🚀 **Currently learning**: TypeScript | PHP | Node.js  
+🚀 **Currently learning**: TypeScript | PHP | Node.js | PostgreSQL  
 🤝 **Open for** collaborations, freelance, and interesting projects 
 
 ### 💡 My Skills
