@@ -47,6 +47,9 @@ Faculty: *Computer Science and Control Systems*
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
+![Atlassian Jira](https://img.shields.io/badge/Atlassian%20Jira-0052CC?logo=jira&logoColor=white)
 
 **Environment:**  
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
